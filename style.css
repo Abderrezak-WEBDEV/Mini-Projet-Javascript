@@ -1,0 +1,66 @@
+boby {
+  font-size: 15px;
+  margin: 0px;
+  font-family: sans-serif;
+}
+.main-nav {
+  background-color: rgb(12, 92, 240);
+  color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+#traduction {
+  background-color: aquamarine;
+  width: 100px;
+}
+.table1 {
+  width: 350px;
+  padding-left: 20px;
+}
+h3 {
+  color: rgb(12, 92, 240);
+}
+button {
+  border: none;
+  color: rgb(12, 92, 240);
+  width: 50%;
+  height: 10%;
+  border-radius: 3px;
+}
+.main-header {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(12, 92, 240);
+  color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 60%;
+  align-items: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 10px;
+}
+.main-child {
+  margin-top: 50%;
+  background-color: rgb(12, 92, 240);
+  color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  height: 20%;
+}
+.blog {
+  background-color: rgb(12, 92, 240);
+  width: 20%;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  height: 200px;
+}
+.produit {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
